@@ -1,6 +1,17 @@
 # C-Programming
 C programming in linux using various IPC mechanisms and other C practice projects.
 
+textbooks : 
+1.     A Practical Guide to Linux® Commands, Editors, and Shell Programming, 3ed.
+     Mark G. Sobell. Prentice Hall. © 2012. ISBN-10: 0-13-308504-X. ISBN-13: 9780133085044
+Note. 4ed is also available and acceptable. This book is referred as [Sobell].
+     Sobell source code: http://www.sobell.com/CR3
+ https://learning.oreilly.com/library/view/practical-guide-to/9780134774626
+ 
+2.     Advanced Programming in the UNIX® Environment, 3e. W. Richard Stevens and Stephen A. Rago. Addison-Wesley. © 2013. ISBN-10: 0-321-63773-9. ISBN-13: 9780321637734 This book is referred as [APUE].
+     APUE source code: http://www.apuebook.com/code3e.html
+ https://learning.oreilly.com/library/view/advanced-programming-in/9780321638014
+ 
 # A14 Open-ended project with Sockets
 Sockets enable us to run the programs across the internet - specifically, client programs from anywhere can connect to the server if they know the IP address and port # to connect to! ~veerasam/linux/sockets has the startup programs. 
 
