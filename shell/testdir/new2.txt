@@ -1,0 +1,4 @@
+fun.txt
+new.txt
+new2.txt
+umask0
